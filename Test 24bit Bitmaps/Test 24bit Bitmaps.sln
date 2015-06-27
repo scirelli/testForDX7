@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test 24bit Bitmaps", "Test 24bit Bitmaps.vcproj", "{1151C89C-D79B-4AA6-9FE9-D53B9B67F44F}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{1151C89C-D79B-4AA6-9FE9-D53B9B67F44F}.Debug.ActiveCfg = Debug|Win32
+		{1151C89C-D79B-4AA6-9FE9-D53B9B67F44F}.Debug.Build.0 = Debug|Win32
+		{1151C89C-D79B-4AA6-9FE9-D53B9B67F44F}.Release.ActiveCfg = Release|Win32
+		{1151C89C-D79B-4AA6-9FE9-D53B9B67F44F}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

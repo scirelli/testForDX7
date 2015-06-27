@@ -1,0 +1,24 @@
+Amoeba1911: NO MOTHER FUCKER
+Amoeba1911: v += a  * frametime
+Amoeba1911: is acceleration is 5m/s/s, and only 0.1 seconds have elapsed, you add 0.5 to velocity.
+Amoeba1911: if velocity is 4 meters/second and only 0.1 seconds elapsed, you add 0.4 meters to distance traveled
+Amoeba1911: postion += velocity * timeframe
+Amoeba1911: velocity += accel * timeframe
+Amoeba1911: accel = whatever the fuck you want it to be, no time frame involved unless acceleration is controlled by something that also changes per second.
+Amoeba1911: RULE
+Amoeba1911: LISTEN TO THIS FUCKING RULE CAREFULLY:
+Amoeba1911: WHENEVER YOU INCREASING X AT A RATE OF Y PER SECOND, THE FORMULA IS AS FOLLOWS: X+=Y*TIME_ELAPSED
+Amoeba1911: GOT it?
+Amoeba1911: WHAT DOES THE RULE SAY?
+Amoeba1911: WHENEVER YOU INCREASING X AT A RATE OF Y
+Amoeba1911: WHENEVER YOU INCREASING X AT A RATE OF Y
+Amoeba1911: WHENEVER YOU INCREASING X AT A RATE OF Y
+Amoeba1911: acceleration is change of velocity per second
+Amoeba1911: velocity is change in position per second
+Amoeba1911: so those are time frame
+Amoeba1911: yes mother fucking brain dead boy
+Amoeba1911: do you even have a working brain
+Amoeba1911: its like you been trying to do the same time for the past 3 years
+Amoeba1911: cOME the hell ON!
+Amoeba1911: come on man
+Amoeba1911: use your bean

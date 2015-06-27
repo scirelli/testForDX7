@@ -1,0 +1,8 @@
+C:\Program Files\SDKs\DXSDK\Include
+ddraw.lib dxguid.lib Winmm.lib dxerr9.lib 
+
+for lib files go to additional dependencies in. right click project then go down to
+properties, input, add. dep.
+
+dxerr9.h
+dxerr9.lib 

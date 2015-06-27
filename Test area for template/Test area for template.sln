@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test area for template", "Test area for template.vcproj", "{D0156BBB-C9BB-4254-9F3E-9F5CDEC2FF5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{D0156BBB-C9BB-4254-9F3E-9F5CDEC2FF5B}.Debug.ActiveCfg = Debug|Win32
+		{D0156BBB-C9BB-4254-9F3E-9F5CDEC2FF5B}.Debug.Build.0 = Debug|Win32
+		{D0156BBB-C9BB-4254-9F3E-9F5CDEC2FF5B}.Release.ActiveCfg = Release|Win32
+		{D0156BBB-C9BB-4254-9F3E-9F5CDEC2FF5B}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,1 @@
+try changing _lread() to ReadFile() see if it works

@@ -1,0 +1,11 @@
+Make an error class
+  redo it so that it uses standard strings
+
+Addin the option of having more then one backbuffer
+
+Maybe change the sprite class to use a vector for the animations
+
+Have to do alot of cleaning up make sure that only header files that are needed are included
+
+********* Can get rid of lpddObj in CUtilites class as well as anyother class that needs the lpddObj becides
+          CDDGameApp. Main.h now has a func that returns a pointer to the g_App main instance
